@@ -3,14 +3,13 @@
 [English](./tutorial_en.md) | 中文
 
 <div align="center">
-  <img src="../static/images/logo.png" alt="logo"/>
-  <h1 align="center">IPTV-API</h1>
+  <img src="../static/images/logo.svg" alt="IPTV-API logo"  width="120" height="120"/>
 </div>
 
-📺IPTV直播源自动更新平台，『🤖全自动采集、筛选、测速、生成流程🚀』，支持丰富的个性化配置，将结果地址输入播放器即可观看
-
-> [!NOTE]
-> 需要远程部署或定制化服务（付费）可联系邮箱：`360996299@qq.com`
+<p>
+  <br>
+  📺IPTV直播源自动更新平台，『🤖全自动采集、筛选、测速、生成流程🚀』，支持丰富的个性化配置，将结果地址输入播放器即可观看
+</p>
 
 以下一共4种安装运行方式，选择一种适合您的即可
 
